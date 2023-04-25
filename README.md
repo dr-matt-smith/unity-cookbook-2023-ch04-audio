@@ -5,8 +5,9 @@
 
 unity-cookbook-2023-ch04-01-play-on-awake
 
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-01-play-on-awake
-- https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-02-audiolisteners
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-01-3rd-person-camera-fix
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-02-play-on-awake
+- https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-03-audiolisteners
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-04-3D-sounds
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-05-reverb-zone
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-06-playOneShot
