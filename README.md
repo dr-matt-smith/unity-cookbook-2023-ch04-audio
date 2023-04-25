@@ -1,9 +1,9 @@
 # unity-cookbook-2023-ch04-audio
 
 
-## Completed projects
+## Chapter 4: Audio
 
-unity-cookbook-2023-ch04-01-play-on-awake
+The **completed** Unity projects for each example can be found in their own repos as follows:
 
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-01-3rd-person-camera-fix
 - https://github.com/dr-matt-smith/unity-cookbook-2023-ch04-02-play-on-awake
